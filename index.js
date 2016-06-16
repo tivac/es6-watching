@@ -1,3 +1,3 @@
-import {fooga} from "./fooga.js";
+import {fooga} from "./fooga.ts";
 
 console.log(fooga);
